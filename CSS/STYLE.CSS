@@ -14,5 +14,9 @@
 .row{
     background-color: brown;
     height: 50px;
+}
 
+#slideshow {
+    height: 512px;
+    background-color: rgb(26, 188, 156);
 }
