@@ -20,3 +20,38 @@
     height: 512px;
     background-color: rgb(26, 188, 156);
 }
+
+
+#portfolio {
+    height: 746px;
+    background-color: white;
+}
+
+
+#title {
+    height: 110px;
+}
+
+#img_portfolio, #content_about, #form{
+    height: calc(100% - 110px);
+}
+
+#about {
+    height: 429px;
+    background-color: rgb(26, 188, 156);
+}
+
+#contact {
+    height: 598px;
+    background-color: white;
+}
+
+#info {
+    height: 200px;
+    background-color: #3A546D;
+}
+
+#footer {
+    height: 98px;
+    background-color: rgb(44, 62, 80);
+}
