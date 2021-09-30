@@ -63,3 +63,14 @@
 .submit {
     background-color: rgb(26, 188, 156);
 }
+
+
+#social {
+    width: 2em;
+    height: 2em;
+    margin: 0 0.5em;
+}
+
+.green-text {
+    color: rgb(26, 188, 156);
+}
