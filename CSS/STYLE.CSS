@@ -28,25 +28,38 @@
     width: 15%;
 }
 
-#img_portfolio, #content_about, #form{
-    height: calc(100% - 110px);
-}
 
 #about {
     background-color: rgb(26, 188, 156);
 }
 
 #contact {
-    height: 598px;
     background-color: white;
 }
 
 #info {
-    height: 200px;
+
     background-color: #3A546D;
 }
 
 #footer {
-    height: 98px;
     background-color: rgb(44, 62, 80);
+}
+
+
+.form-control {
+    border: none;
+    border-bottom: 1px solid lightgray;
+    padding: 0;
+    border-radius: 0;
+}
+
+
+.form-label{
+    margin-bottom: 0px;
+}
+
+
+.submit {
+    background-color: rgb(26, 188, 156);
 }
