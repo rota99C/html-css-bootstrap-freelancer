@@ -74,3 +74,30 @@
 .green-text {
     color: rgb(26, 188, 156);
 }
+
+#portfolio i{
+    visibility: hidden;
+}
+
+#gallery:hover i {
+    visibility: visible;
+    z-index: 2;
+}
+
+#gallery:hover img {
+    filter: saturate(0.6);
+}
+
+.green-filter {
+    opacity: 50%;
+    visibility: hidden;
+    background-color: rgb(26, 188, 156);
+    position: absolute;
+    width: calc(100% - 1rem);
+}
+
+#gallery:hover .green-filter{
+    visibility: visible;
+    z-index: 1;
+
+}
