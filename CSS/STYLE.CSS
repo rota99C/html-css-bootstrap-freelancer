@@ -4,8 +4,7 @@
     margin: 0;
 }
 
-.row{ 
-}
+
 
 /* header */
 
@@ -34,7 +33,6 @@
 }
 
 #about {
-    height: 429px;
     background-color: rgb(26, 188, 156);
 }
 
