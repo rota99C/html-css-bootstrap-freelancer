@@ -4,8 +4,7 @@
     margin: 0;
 }
 
-.row{
-    height: 50px;
+.row{ 
 }
 
 /* header */
@@ -18,19 +17,16 @@
 
 
 #slideshow {
-    height: 512px;
     background-color: rgb(26, 188, 156);
 }
 
 
 #portfolio {
-    height: 746px;
     background-color: white;
 }
 
-
-#title {
-    height: 110px;
+.w-15 {
+    width: 15%;
 }
 
 #img_portfolio, #content_about, #form{
