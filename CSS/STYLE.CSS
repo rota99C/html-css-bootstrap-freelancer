@@ -75,7 +75,7 @@
     color: rgb(26, 188, 156);
 }
 
-#portfolio i{
+#portfolio i:not(.fa-star){
     visibility: hidden;
 }
 
@@ -99,5 +99,4 @@
 #gallery:hover .green-filter{
     visibility: visible;
     z-index: 1;
-
 }
